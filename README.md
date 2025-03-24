@@ -5,6 +5,9 @@ I'm a passionate Computer Science student at CSUN with a keen interest in explor
 
 ## 🔧 What I'm Working On
 - **Car Rental Web App:** Currently developing a web application for a car rental service as a personal project for my portfolio.
+
+## 📅 Future Projects
+- Java tile based game
   
 ## 💡Interests & Learning
 - Constantly exploring technologies and best practices in software development.
